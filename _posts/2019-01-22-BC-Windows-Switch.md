@@ -33,7 +33,7 @@ To switch from Windows to BitCurator:
 7. You will be prompted for a password. Type the BitCurator password and hit **enter**.
 8. Hit the up arrow key until you see the following command
 
-```sudo mount -o remount,rw '/dev/sda2' ```
+	```sudo mount -o remount,rw '/dev/sda2' ```
 	
 9. Hit **enter**.
 10. Hit the up arrow key until you see the following command:
