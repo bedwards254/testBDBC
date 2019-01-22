@@ -1,3 +1,10 @@
+---
+layout: post
+title:  Switching between BitCurator and Windows
+category: jekyll 
+description: Instructions on how to switch between Windows and BitCurator
+---
+
 # Switching between BitCurator and Windows
 
 The following instructions describe the steps required to switch between BitCurator and Windows on the Digital Archives Lab computers. Both Dell computers have both BitCurator and Windows installed.
@@ -26,16 +33,12 @@ To switch from Windows to BitCurator:
 7. You will be prompted for a password. Type the BitCurator password and hit **enter**.
 8. Hit the up arrow key until you see the following command
 
-::
-
-	sudo mount -o remount,rw '/dev/sda2'
+```sudo mount -o remount,rw '/dev/sda2' ```
 	
 9. Hit **enter**.
 10. Hit the up arrow key until you see the following command:
-
-::
 	
-	sudo service lightdm start
+	```sudo service lightdm start```
 	
 11. Hit **enter**. The BitCurator GUI will launch.
 
