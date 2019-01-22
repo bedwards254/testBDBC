@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to the Born-Digital Bootcamp!"
-date: 2019-01-18 15:15:45 +0800
+date: 2019-01-23 15:15:45 +0800
 categories: jekyll
 ---
 
