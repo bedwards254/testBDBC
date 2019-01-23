@@ -9,9 +9,7 @@ description: Instructions on how to switch between Windows and BitCurator
 
 The following instructions describe the steps required to switch between BitCurator and Windows on the Digital Archives Lab computers. Both Dell computers have both BitCurator and Windows installed.
 
--------------------------------------
-To switch from BitCurator to Windows:
--------------------------------------
+### To switch from BitCurator to Windows:
 
 1. Click the **Settings** icon in the very top-right corner of the BitCurator desktop.
 2. From the drop-down menu, select **Shut Down...**
@@ -20,9 +18,7 @@ To switch from BitCurator to Windows:
 5. Use the arrow keys to scroll to **Windows Boot Manager** and hit **enter**.
 6. Windows will boot. Log-in as normal.
 
--------------------------------------
-To switch from Windows to BitCurator:
--------------------------------------
+### To switch from Windows to BitCurator:
 
 1. Click the **Windows** icon in the very bottom-left corner of the Windows desktop.
 2. Click the **On/Off** icon and select **Restart**.
@@ -45,9 +41,7 @@ To switch from Windows to BitCurator:
 **Note**: 
 On the right computer, the steps are a bit different. 
 
-------------------------------------------------------
-To switch from BitCurator to Windows (right computer):
-------------------------------------------------------
+### To switch from BitCurator to Windows (right computer):
 
 1. Click the **Settings** icon in the very top-right corner of the BitCurator desktop.
 2. From the drop-down menu, select the **Power button**
@@ -56,9 +50,7 @@ To switch from BitCurator to Windows (right computer):
 5. Use the arrow keys to scroll to **UEFI: SK hynix SH920 2.5 7MM 256GB** and hit **enter**.
 6. Windows will boot. Log-in as normal.
 
-------------------------------------------------------
-To switch from Windows to BitCurator (right computer):
-------------------------------------------------------
+### To switch from Windows to BitCurator (right computer):
 
 1. Click the **Windows** icon in the very bottom-left corner of the Windows desktop.
 2. Click the **On/Off** icon and select **Restart**.
