@@ -11,7 +11,7 @@ description: Ingesting packaged content into the Keep
 
 ### Before you begin:
 
-* This workflow uses tools stored in Windows. If necessary, restart the Digital Archives Lab workstation and boot to the Windows hard drive. You can find instructions on how to do this :ref:`here <BC_Windows>`.
+* This workflow uses tools stored in Windows. If necessary, restart the Digital Archives Lab workstation and boot to the Windows hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html).
 
 * Ensure that the Digital Archives Lab workstation **is** connected to the Internet by plugging in the ethernet cable if necessary. Unlike many of our processes, ingest into the Keep does require a network connection.
 
@@ -22,13 +22,13 @@ description: Ingesting packaged content into the Keep
 2. Click **Connect**.
 3. Log-in using the stored Emory NetID and password. If no stored log-in details are 
    available, you may contact either John, Carrie, Elizabeth, or Dorry.  
-4. Wait until the connection status has changed to **Connected**. Once connected, the    BIG-IP Edge Client window will close automatically.
+4. Wait until the connection status has changed to **Connected**. Once connected, the BIG-IP Edge Client window will close automatically.
 
 ### Connect to the server via SFTP:
 
 5. Launch Filezilla by double-clicking the Filezilla icon on the Desktop.
 6. From the drop-down **File** menu, select **Site Manager...**
-7. Find and double-click your netID from the list of sites on the left-hand side of 	the **Site Manager...** window.
+7. Find and double-click your netID from the list of sites on the left-hand side of the **Site Manager...** window.
 8. Enter your password and hit **OK**.
 9. Filezilla will connect to the server.
 
@@ -36,9 +36,9 @@ description: Ingesting packaged content into the Keep
 
 ### Move Bags to the server:
 
-10. In the local file tree, navigate to your Bags' location. This is probably 	D:\digitalArchives\diskImages\Mackey_diskImages.
-11. One by one, drag and drop your verified Bags from their local folder to the 	**diskimage** folder on the server side.
-12. View the **Successful Transfers** tab at the bottom-left of the Filezilla window 	to verify that transfer has been completed successfully.
+10. In the local file tree, navigate to your Bags' location. This is probably D:\digitalArchives\diskImages\Mackey_diskImages.
+11. One by one, drag and drop your verified Bags from their local folder to the **diskimage** folder on the server side.
+12. View the **Successful Transfers** tab at the bottom-left of the Filezilla window to verify that transfer has been completed successfully.
 
 ## Ingest Bags from the server into the Keep:
 
@@ -50,7 +50,7 @@ description: Ingesting packaged content into the Keep
 
 13. Log into the Keep at https://keep.library.emory.edu. 
 14. Click **ingest uploaded content**.
-15. In the **Collection** box, begin typing **Mackey** and select **1297 Nathaniel 	Mackey papers** from the list that pops up.
+15. In the **Collection** box, begin typing **Mackey** and select **1297 Nathaniel Mackey papers** from the list that pops up.
 16. From the **File to ingest** drop-down menu, select the first of your Bags.
 17. Hit **Submit**.
 
@@ -67,9 +67,9 @@ description: Ingesting packaged content into the Keep
 	* Genre
 	* Identifier
 		
-	Refer to the floppy disk label. If the label contains any notes regarding dates 	or content, enter them where relevant. 
+	Refer to the floppy disk label. If the label contains any notes regarding dates or content, enter them where relevant. 
 		
-	* Dates can be added to the **Covering Dates** field. Neither a date range 		  	nor full dates are required, so add as much or as little information as you 		  	have.
+	* Dates can be added to the **Covering Dates** field. Neither a date range nor full dates are required, so add as much or as little information as you have.
 	* Other label information can be added to the **Abstract** field.
 		
 20. Complete **Technical Metadata**:
@@ -77,12 +77,11 @@ description: Ingesting packaged content into the Keep
 	The following fields should be completed:
 		
 	* **Imaging Date:** Enter the date on which you imaged the disk.
-	* **Creating Application:** From the drop-down menu, select the application 	  
-		used to create the disk image. For all of our Mackey floppy disks, this will 		be **ewfacquire 20140608**.
-	* **Original Environment Software:** Type *none* in all three **Original 		  	* Environment Software** fields.
+	* **Creating Application:** From the drop-down menu, select the application used to create the disk image. For all of our Mackey floppy disks, this will be **ewfacquire 20140608**.
+	* **Original Environment Software:** Type *none* in all three **Original * Environment Software** fields.
 	* **Hardware - Name:** Type *3.5" floppy disk*.
 	* **Hardware - Type:** Select **removable media** from drop-down menu.
-	* **Other information:** Type *Data originally transferred using KryoFlux. 		  	    Raw disk image file migrated to Expert Witness Format using ewfacquire*.
+	* **Other information:** Type *Data originally transferred using KryoFlux. Raw disk image file migrated to Expert Witness Format using ewfacquire*.
 		   
 21. Complete **Rights Metadata**:
 	
@@ -95,5 +94,8 @@ description: Ingesting packaged content into the Keep
 ### Repeat for remaining Bags:
 
 23. For each remaining Bag, repeat from step 14.
+
+[<- Previous Step](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/creating-bags.html)
+[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/23/welcome-BDBC.html)
 		
 
