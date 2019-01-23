@@ -7,25 +7,19 @@ description: Migrating from img files to E01 files
 
 # Migrating KryoFlux image files in preparation for ingest
 
------------------
-Before you begin:
------------------
+### Before you begin:
 
 * This workflow uses tools stored as part of the BitCurator suite. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this :ref:`here <BC_Windows>`.
 * Ensure that the Digital Archives Lab workstation is not connected to the Internet by unplugging the ethernet cable.
 
-----------------------------
-Locate existing image files:
-----------------------------
+### Locate existing image files:
 
 1. Ensure that the Digital Archives hard drive dock is powered on. 
 2. Ensure that the Digital Archives hard drive is mounted inside BitCurator. If necessary, double-click the **New Volume** icon in the toolbar on the left-hand side of the screen. Once the Digital Archives hard drive is mounted, a **New Volume** icon will appear on the Desktop.
 3. Double-click the **New Volume** icon on the Desktop and navigate to the **[collection]_diskImages** folder.
 4. Open a terminal window but right-clicking anywhere on the Desktop and selecting **Open Terminal**.
 
----------------
-Run the script:
----------------
+### Run the script:
 
 1. Locate *migration.bash* on the desktop and double-click. 
 2. The file should look like this: 
