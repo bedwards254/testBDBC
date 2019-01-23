@@ -7,16 +7,12 @@ description: Packaging disk images and supplemental files using BagIt
 
 # Packaging disk images and supplemental files using BagIt
 
------------------
-Before you begin:
------------------
+### Before you begin:
 
 * This workflow uses tools stored in BitCurator. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this :ref:`here <BC_Windows>`.
 * Ensure that the Digital Archives Lab workstation is not connected to the Internet by unplugging the ethernet cable.
 
----------------
-Create folders:
----------------
+### Create folders:
 
 1. Ensure that the Digital Archives hard drive dock is powered on. 
 2. Ensure that the Digital Archives hard drive is mounted inside BitCurator. If necessary, double-click the **New Volume** icon in the toolbar on the left-hand side of the screen. Once the Digital Archives hard drive is mounted, a **New Volume** icon will appear on the Desktop.
@@ -43,9 +39,7 @@ a. Type the following command to create all 20 folders at once and hit **enter**
 	c. The ``verify[MSSnumber_ID].txt`` file also created during migration from a ``.img`` file to a ``.E01`` file (e.g., ``verify1297_24.txt``)
 	d. The ``fiwalk.xml`` file
 	
------------
-Copy files:
------------
+### Copy files:
 	
 7. On the desktop, look for **copy.bash** and click on it to open. 
 
@@ -79,9 +73,7 @@ the folder numbers you are wanting to copy.
 
 10. Type in **bash copy.bash** and hit **enter**
 
---------------------------
-Create and Validate a Bag:
---------------------------
+### Create and Validate a Bag:
 
 11. On the Desktop, locate the file **bagger.bash** and click to open it.
 
