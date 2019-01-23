@@ -9,7 +9,7 @@ description: Packaging disk images and supplemental files using BagIt
 
 ### Before you begin:
 
-* This workflow uses tools stored in BitCurator. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this :ref:`here <BC_Windows>`.
+* This workflow uses tools stored in BitCurator. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html).
 * Ensure that the Digital Archives Lab workstation is not connected to the Internet by unplugging the ethernet cable.
 
 ### Create folders:
@@ -115,3 +115,7 @@ The file should look like this:
     ```cd Desktop```
 	
 15. Type in **bash bagger.bash** and hit **enter**
+
+[<- Previous Step](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/fiwalk.html)
+[Next Step ->](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/Keep-Ingest.html)
+[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/23/welcome-BDBC.html)
