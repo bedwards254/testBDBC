@@ -9,7 +9,7 @@ description: Migrating from img files to E01 files
 
 ### Before you begin:
 
-* This workflow uses tools stored as part of the BitCurator suite. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this :ref:`here <BC_Windows>`.
+* This workflow uses tools stored as part of the BitCurator suite. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html).
 * Ensure that the Digital Archives Lab workstation is not connected to the Internet by unplugging the ethernet cable.
 
 ### Locate existing image files:
@@ -75,3 +75,7 @@ the folder numbers you are wanting to migrate.
 
 6. Type **bash migration.bash**
 7. Hold down **enter** until you are back to the original prompt ($). 
+
+[<- Previous Step](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/KryFlux.html)
+[Next Step ->](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/fiwalk.html)
+[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/23/welcome-BDBC.html)
