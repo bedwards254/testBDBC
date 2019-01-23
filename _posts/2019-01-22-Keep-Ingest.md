@@ -7,9 +7,7 @@ description: Ingesting packaged content into the Keep
 
 # Ingesting packaged content into the Keep
 
-------------------------------------
-Move packaged content to the server:
-------------------------------------
+## Move packaged content to the server:
 
 ### Before you begin:
 
@@ -42,9 +40,7 @@ Move packaged content to the server:
 11. One by one, drag and drop your verified Bags from their local folder to the 	**diskimage** folder on the server side.
 12. View the **Successful Transfers** tab at the bottom-left of the Filezilla window 	to verify that transfer has been completed successfully.
 
-------------------------------------------
-Ingest Bags from the server into the Keep:
-------------------------------------------
+## Ingest Bags from the server into the Keep:
 
 ### Before you begin:
 
