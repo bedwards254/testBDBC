@@ -57,6 +57,6 @@ On the right computer, the steps are a bit different.
 3. Pay attention as the computer restarts. As soon as you see the Dell boot screen, hit **F12**. You should see the message **Preparing one-time boot menu** in yellow in the upper right hand corner.
 4. Use the arrow keys to scroll to **ubuntu** and hit **enter**.
 5. Use the arrow keys to scroll to **UEFI: Samsung SSD 850 EVO 250GB** and hit **enter**.
-6. The next page will ask what system you want. Scroll to **unbuntu** and hit **enter**
+6. The next page will ask what system you want. Scroll to **ubuntu** and hit **enter**
 7. After a few minutes, you will be prompted to choose the BitCurator profile. Hit **enter**.
 8. You will be prompted for a password. Type the BitCurator password and hit **enter**. The BitCurator GUI will launch.
