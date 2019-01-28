@@ -6,7 +6,9 @@ description: Instructions for imaging various drives, internal, external, and US
 ---
 
 # Hard Drives
-[table of contents or internal links here?]
+- [Internal](#internal)
+- [External](#external)
+- [USB Drives](#usb-drives)
 
 ## Internal
 Overview
