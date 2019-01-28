@@ -16,23 +16,23 @@ preservation and processing using Guymager.
 ### Tools
 
 #### Hardware:
-- Write blocker and adaptors
-- Tableau (Newer)
+##### Write blocker and adaptors
+Tableau (Newer)
 - Tableau SATA/IDE Bridge
 - Tableau SAS Bridge
 - Tableau USB 3.0 Bridge
 - Tableau FireWire Bridge
 - Various cords and connectors
 
-- UltraBlock
+UltraBlock (Yellow Case)
 - UltraBlock II eSATA IDE/SATA
 - UltraBlock SCSI
 - UltraBlock USB
 
-- Host machine 
+Host machine 
 - PC workstation 
 
-- External storage drive
+External storage drive
 
 #### Software:
 - Guymager (available as part of the BitCurator suite) 
