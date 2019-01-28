@@ -8,7 +8,7 @@ description: Instructions for imaging and Keep upload of optical discs
 # Optical discs
 
 ### REVIEW OPTICAL DISC CONTENT:
-1. Launch IsoBuster from the Desktop(Windows side).
+1. Launch IsoBuster from the Desktop (Windows side).
 2. Insert disc. After a few seconds, the disc’s file tree should load in the IsoBuster window.
 3. Review the file tree to identify the contents of the disc:
 a. If the disc contains audiovisual data only, it should be re-routed through the AV workflow;
@@ -23,24 +23,25 @@ c. If the disc contains mixed-mode data (both audiovisual and filesystem data), 
 2. Right-click anywhere on the Desktop to create a new folder. Name it collectionName_diskImages_cds 
 (e.g., Cleage_diskImages_cds).
 3. Insert disc, if not already loaded.
-4. Double-click the Imaging Tools folder on the Desktop.
-5. Double-click Guymager.
+4. Double-click the *Imaging Tools* folder on the Desktop.
+5. Double-click *Guymager*.
 6. Select the CD/DVD drive from the list.
-7. Right-click and select Acquire image.
+7. Right-click and select *Acquire image*.
 8. In the Acquire image window, complete the following:
-a. Select Linux dd raw image;
-b. De-select Split image files;
-c. Use the browse button (...) to the right of Image directory to navigate to the folder created at step 5;
-i. NOTE: Go media/bcadmin/New Volume/ to reach the hard drive properlyd. Enter an Image filename. Use MSS#_ID 
-(e.g., 1000_01).e.Check every box underneath Hash calculation / verification(Calculate MD5, Calculate SHA-1, 
+a. Select *Linux dd raw image*;
+b. De-select *Split image files*;
+c. Use the browse button (...) to the right of Image directory to navigate to the folder created at step 2;
+i. NOTE: Go media/bcadmin/New Volume/ to reach the hard drive properly
+d. Enter an Image filename. Use *MSS#_ID* (e.g., 1000_01).
+e. Check every box underneath Hash calculation / verification (Calculate MD5, Calculate SHA-1, 
 Calculate SHA-256, Re-read source after acquisition for verifications (takes twice as long), and Verify 
-image after acquisition (take twice as long))
-9. Hit Start.
+image after acquisition (takes twice as long))
+9. Hit *Start*.
 
 **NOTE:** You can check the progress of disk imaging by scrolling to the right in the Guymager window.
 
-10. In the folder created at step 4, right-click the disk image file and select Rename.
-11. Change the file extension from .dd to .iso.
+10. In the folder created at step 2, right-click the disk image file and select *Rename*.
+11. Change the file extension from *.dd* to *.iso*.
 
 **NOTE:** You can review the disk image contents by right-clicking the object and selecting Scripts > Mount Disk Image. 
 The disk image will be mounted on the Desktop. Double-click to open it and view files.
@@ -50,15 +51,15 @@ Guymager to have it appear in the list.
 
 ### CAPTURE DISK IMAGE USING ISOBUSTER:
 1. Switch to the Windows side of the machine. See [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html) for instructions. 
-2. Power on the hard drive dock (DA Backup) and create a new folder in the diskImagesdirectory, named 
+2. Power on the hard drive dock and create a new folder in the diskImages directory, named 
 collectionName_diskImages (e.g., Cleage_diskImages).
-3. Launch IsoBuster.
+3. Launch *IsoBuster*.
 4. Insert disc, if not already loaded. After a few seconds, the disc’s file tree should load in the IsoBuster window.
-5. Select the disc and right-click to open the Extractionmenu.
-6. Select Extract CD <Image> > RAW (*.bin, *.iso).
-7. Navigate to the directory created at step 4 and enter a file name for the disk image. Use MSS#_ID (e.g., 1000_01).
-8. From the dropdown menu, change the Save as typeto *.bin.
-9. Hit Save.
+5. Select the disc and right-click to open the *Extraction menu*.
+6. Select *Extract CD <Image> > RAW (*.bin, *.iso)*.
+7. Navigate to the directory created at step 2 and enter a file name for the disk image. Use MSS#_ID (e.g., 1000_01).
+8. From the dropdown menu, change the *Save as* type to *.bin.
+9. Hit *Save*.
 
 **NOTE:** If IsoBuster encounters an unreadable sector, an error message will ask if you want to retry imaging, 
 select one of four options and proceed with imaging, or quit. One selection will be checked by default 
