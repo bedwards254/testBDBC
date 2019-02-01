@@ -76,6 +76,10 @@ the folder numbers you are wanting to migrate.
 6. Type **bash migration.bash**
 7. Hold down **enter** until you are back to the original prompt ($). 
 
+## Review MD5 checksum and verify checksum files
+
+~ Add in instructions for new script ~
+
 [<- Previous Step](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/KryFlux.html)
 [Next Step ->](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/fiwalk.html)
 [Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/23/welcome-BDBC.html)
