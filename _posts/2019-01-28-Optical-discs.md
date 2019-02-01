@@ -11,9 +11,9 @@ description: Instructions for imaging and Keep upload of optical discs
 1. Launch IsoBuster from the Desktop (Windows side).
 2. Insert disc. After a few seconds, the disc’s file tree should load in the IsoBuster window.
 3. Review the file tree to identify the contents of the disc:
-a. If the disc contains audiovisual data only, it should be re-routed through the AV workflow;
-b. If the disc contains non-audiovisual data only (e.g., documents, digital photographs), image using Guymager;
-c. If the disc contains mixed-mode data (both audiovisual and filesystem data), image using IsoBuster.
+- a. If the disc contains audiovisual data only, it should be re-routed through the AV workflow;
+- b. If the disc contains non-audiovisual data only (e.g., documents, digital photographs), image using Guymager;
+- c. If the disc contains mixed-mode data (both audiovisual and filesystem data), image using IsoBuster.
 
 **NOTE:** For more information about the Rose Library’s approach to optical discs, see the 
 [Capturing Data from Optical Discs policy](https://bedwards254.github.io/testBDBC/jekyll/2019/01/28/Optical-discs-policy.html).
@@ -28,12 +28,12 @@ c. If the disc contains mixed-mode data (both audiovisual and filesystem data), 
 6. Select the CD/DVD drive from the list.
 7. Right-click and select *Acquire image*.
 8. In the Acquire image window, complete the following:
-a. Select *Linux dd raw image*;
-b. De-select *Split image files*;
-c. Use the browse button (...) to the right of Image directory to navigate to the folder created at step 2;
-i. NOTE: Go media/bcadmin/New Volume/ to reach the hard drive properly
-d. Enter an Image filename. Use *MSS#_ID* (e.g., 1000_01).
-e. Check every box underneath Hash calculation / verification (Calculate MD5, Calculate SHA-1, 
+- a. Select *Linux dd raw image*;
+- b. De-select *Split image files*;
+- c. Use the browse button (...) to the right of Image directory to navigate to the folder created at step 2;
+    * i. NOTE: Go media/bcadmin/New Volume/ to reach the hard drive properly
+- d. Enter an Image filename. Use *MSS#_ID* (e.g., 1000_01).
+- e. Check every box underneath Hash calculation / verification (Calculate MD5, Calculate SHA-1, 
 Calculate SHA-256, Re-read source after acquisition for verifications (takes twice as long), and Verify 
 image after acquisition (takes twice as long))
 9. Hit *Start*.
@@ -100,14 +100,14 @@ much or as little information as you have.
 
 8. Complete **Technical Metadata**:
 - The following fields should be completed:
-- **Imaging Date:** Enter the date on which you imaged the disk.
-- **Creating Application:** From the drop-down menu, select the application used to create the disk image. For all of our 
+  * **Imaging Date:** Enter the date on which you imaged the disk.
+  * **Creating Application:** From the drop-down menu, select the application used to create the disk image. For all of our 
 optical disks, this will be *Guymager (BitCurator 1.0) 0.7.3-1*.
-- **Original Environment Software:** Type *None* in all three Original Environment Software fields.
-- **Hardware Name:** Type *CD* or *DVD*.
-- **Hardware Type:** Select *removable media* from drop-down menu.
-- **Other information:** Type *Imaged using Guymager in BitCurator environment*.
+  * **Original Environment Software:** Type *None* in all three Original Environment Software fields.
+  * **Hardware Name:** Type *CD* or *DVD*.
+  * **Hardware Type:** Select *removable media* from drop-down menu.
+  * **Other information:** Type *Imaged using Guymager in BitCurator environment*.
 9. Complete **Rights Metadata:** 
 - The following field should be completed:
-- **Access Status:** Select *13: Metadata onlyfrom the drop-down menu*.
+  * **Access Status:** Select *13: Metadata onlyfrom the drop-down menu*.
 10. Hit *Save*.
