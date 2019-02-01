@@ -52,10 +52,10 @@ number should be under the battery.
 2. Conduct an online search using the model/serial number(s) to confirm hardware specs. Based on the search results:
 - a. Document any known issues relating to the hardware.
 - b. Identify the type of hard drive:
-- i. SATA(solid state drive; launched c.2003 and currently the most common hard drive used in desktop and laptop computers)
-- ii. IDE/ATA(same format as SATA drives, but with a slightly different span; adopted as a standard in 1990 but now less 
+  * i. SATA(solid state drive; launched c.2003 and currently the most common hard drive used in desktop and laptop computers)
+  * ii. IDE/ATA(same format as SATA drives, but with a slightly different span; adopted as a standard in 1990 but now less 
 common in modern computers)
-- iii. SCSI(Small Computer System Interface; 25 different versions; connects to host computer via SCSI-3 Interface Cable)
+  * iii. SCSI(Small Computer System Interface; 25 different versions; connects to host computer via SCSI-3 Interface Cable)
 
 3. Conduct an online search for instructions on how to replace or remove the hard drive from the hardware model identified.
 4. After selecting the most useful online resource, follow the instructions on how to remove the drive.
@@ -99,8 +99,8 @@ applicable (Rita Ann Higgins flash drive 1)) and physical label, if applicable.
 
 5. Browse to directory in which newly created image will be stored.
 - a. Instructions for getting to hard drive PC:
-- i. Use the browse button (...) to the right of Image directory to navigate to the folder created at step 5;
-- 1. NOTE: Go media/bcadmin/New Volume/ to reach the hard drive properly
+  * i. Use the browse button (...) to the right of Image directory to navigate to the folder created at step 5;
+  * 1. NOTE: Go media/bcadmin/New Volume/ to reach the hard drive properly
 - b. Back in Guymager, select newly created folder as image directory.
 6. Enter file name for the image. The file name should be the record ID (MSS# then _ then a successive 2 or 3 digit number). 
 If there is a virtual disk label, include this in the file name as well (MSS#_virtual disk label_successive 2 or 3 
