@@ -88,14 +88,14 @@ Creating a physical image:
 3. In the Guymager window, select the correct drive and right click to bring up the imaging menu. Select “Acquire image.”
 4. Select “Expert Witness Format, sub-format Guymager (file extension .EXX)” as file format and enter basic metadata, as 
 relevant. Refer to Metadata Guidelines for guidance:
-- a. Under “Split,” type in an amount above what the total of the drive says it is. Ex. 5 GB on a 4GB drive, 
+- Under “Split,” type in an amount above what the total of the drive says it is. Ex. 5 GB on a 4GB drive, 
 to make sure it doesn’t split.
-- b. *Case Number:* Record ID (MSS# then _ then a successive 2 or 3 digit number)
-- c. *Evidence Number:* Disk Number/Title 
-- d. *Examiner:* Imager’s Net ID (e.g., dwaugh, elfarr)
-- e. *Description:* Brief description of media (e.g., collection name and type of drive it is, and number if 
+- *Case Number:* Record ID (MSS# then _ then a successive 2 or 3 digit number)
+- *Evidence Number:* Disk Number/Title 
+- *Examiner:* Imager’s Net ID (e.g., dwaugh, elfarr)
+- *Description:* Brief description of media (e.g., collection name and type of drive it is, and number if 
 applicable (Rita Ann Higgins flash drive 1)) and physical label, if applicable.
--f. *Notes:* As needed
+- *Notes:* As needed
 
 5. Browse to directory in which newly created image will be stored.
 - a. Instructions for getting to hard drive PC:
@@ -139,12 +139,12 @@ image will be mounted on the Desktop. Double-click to open it and view files.
 7. In the Guymager window, select the correct drive and right click to bring up the imaging menu. Select “Acquire image.”
 8. Select “Expert Witness Format, sub-format Guymager (file extension .EXX)” as file format and enter basic metadata, as relevant. 
 Refer to Metadata Guidelines for guidance:
-- a. Under “Split,” type in an amount above what the total of the drive says it is. Ex. 5 GB on a 4GB drive, to make sure it doesn’t split.
-- b. Case Number: Record ID (MSS# then _ then a successive 2 or 3 digit number)
-- c. Evidence Number: Disk Number/Title
-- d. Examiner: Imager’s Net ID (e.g., dwaugh, elfarr)
-- e. Description: Brief description of media (e.g., collection name and type of drive it is, and number if applicable (Rita Ann Higgins flash drive 1)) and physical label, if applicable.
-- f. Notes: As needed
+- Under “Split,” type in an amount above what the total of the drive says it is. Ex. 5 GB on a 4GB drive, to make sure it doesn’t split.
+- *Case Number:* Record ID (MSS# then _ then a successive 2 or 3 digit number)
+- *Evidence Number:* Disk Number/Title
+- *Examiner:* Imager’s Net ID (e.g., dwaugh, elfarr)
+- *Description:* Brief description of media (e.g., collection name and type of drive it is, and number if applicable (Rita Ann Higgins flash drive 1)) and physical label, if applicable.
+- *Notes:* As needed
 
 9. Browse to directory in which newly created image will be stored.
 - a. Instructions for getting to hard drive PC:
@@ -182,12 +182,12 @@ Refer to Metadata Guidelines for guidance:
 7. In the Guymager window, select the correct drive and right click to bring up the imaging menu. Select “Acquire image.”
 8. Select “Expert Witness Format, sub-format Guymager (file extension .EXX)” as file format and enter basic metadata, as relevant. 
 Refer to Metadata Guidelines for guidance:
-- a. Under “Split,” type in an amount above what the total of the drive says it is. Ex. 5 GB on a 4GB drive, to make sure it doesn’t split.
-- b. Case Number: Record ID (MSS# then _ then a successive 2 or 3 digit number)
-- c. Evidence Number: Disk Number/Title
-- d. Examiner: Imager’s Net ID (e.g., dwaugh, elfarr)
-- e. Description: Brief description of media (e.g., collection name and type of drive it is, and number if applicable (Rita Ann Higgins flash drive 1)) and physical label, if applicable.
-- f. Notes: As needed
+- Under “Split,” type in an amount above what the total of the drive says it is. Ex. 5 GB on a 4GB drive, to make sure it doesn’t split.
+- *Case Number:* Record ID (MSS# then _ then a successive 2 or 3 digit number)
+- *Evidence Number:* Disk Number/Title
+- *Examiner:* Imager’s Net ID (e.g., dwaugh, elfarr)
+- *Description:* Brief description of media (e.g., collection name and type of drive it is, and number if applicable (Rita Ann Higgins flash drive 1)) and physical label, if applicable.
+- *Notes:* As needed
 
 9. Browse to directory in which newly created image will be stored.
 - a. Instructions for getting to hard drive PC:
