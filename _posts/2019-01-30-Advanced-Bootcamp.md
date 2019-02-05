@@ -15,5 +15,5 @@ Below are links to imaging instructions for materials other than floppy disks.
   * [ZIP 100](https://bedwards254.github.io/testBDBC/jekyll/2019/01/28/ZIP-100-Disks.html)
   * [ZIP 250](https://bedwards254.github.io/testBDBC/jekyll/2019/01/18/ZIP-250-Disks.html)
 3. [Hard drives and other types of drives (USB, etc.)](https://bedwards254.github.io/testBDBC/jekyll/2019/01/28/Imaging-Drives.html)
-  * Creating TAR files
+  * [Creating TAR files](https://bedwards254.github.io/testBDBC/jekyll/2019/01/29/TAR-files.html)
 4. [SD Cards](https://bedwards254.github.io/testBDBC/jekyll/2019/01/28/SD-Cards.html)
