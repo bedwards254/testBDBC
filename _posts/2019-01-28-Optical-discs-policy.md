@@ -10,7 +10,7 @@ description: Policy and procedures for optical discs
 This document outlines policy for handling optical discs acquired by the Rose Library as part of manuscript collections. 
 This will help guide decisions as to if and how digital archivists at the Rose capture data from CDs and DVDs.
 
-Upon receiving an optical disc, an archivist reviews its content using IsoBuster (http://www.isobuster.com). 
+Upon receiving an optical disc, an archivist reviews its content using [IsoBuster](http://www.isobuster.com), located on the Windows side of the machine. 
 
 A disc’s contents will fall into one of four categories:
 1. A commercially-produced disc
@@ -30,7 +30,7 @@ A disc’s contents will fall into one of four categories:
 
 **If the disc in question is a recordable mixed-mode CD...**
 - A disk image is created using the BIN/CUE file format, using either FTK Imager or IsoBuster.
-- WHY IS THE BIN/CUE FORMAT REQUIRED FOR MIXED-MODE DISCS?
+- *WHY IS THE BIN/CUE FORMAT REQUIRED FOR MIXED-MODE DISCS?*
 1. Unlike single session CDS, mixed-mode CDs store data in multiple sessions and multiple tracks. 
 One session will contain audio tracks, the other will contain filesystem data. 
 A BIN/CUE file is a multi-part object: the BIN file contains the raw data from the disc, while the CUE file 
