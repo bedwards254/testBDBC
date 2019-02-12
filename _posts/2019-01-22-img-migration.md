@@ -76,23 +76,23 @@ the folder numbers you are wanting to migrate.
 6. Type **bash migration.bash**
 7. Hold down **enter** until you are back to the original prompt ($). 
 
-## Review MD5 checksum and verify checksum files
+<!-- ## Review MD5 checksum and verify checksum files -->
 
-Using the **MD5.bash** file, the MD5 file and verify files created during the migration process can be compared against one another to make sure they are the same values.  
+<!-- Using the **MD5.bash** file, the MD5 file and verify files created during the migration process can be compared against one another to make sure they are the same values.  -->
 
-**NOTE:** The *.bash* file and the Python file of the same name must be in the same directory. One does not work without the other. 
+<!-- **NOTE:** The *.bash* file and the Python file of the same name must be in the same directory. One does not work without the other. -->
 
-1. Open the **MD5.bash** file. 
+<!-- 1. Open the **MD5.bash** file. 
 2. Edit the file path to direct to the collection folder, similar to how you did above. 
 	* If you type an invalid file path and run the file, an error message will appear.
 3. **SAVE** the file. 
 4. Open a terminal window but right-clicking anywhere on the Desktop and selecting **Open Terminal**.
 5. In the terminal, navigate to the Desktop using
 
-    ```cd Desktop```
+    ```cd Desktop``` -->
 
-6. Type **bash MD5.bash** and hit **enter**
-7. The results of the scan will appear in the terminal window, either "Success!" or "Fail!" next to the folder number. 
+<!-- 6. Type **bash MD5.bash** and hit **enter**
+7. The results of the scan will appear in the terminal window, either "Success!" or "Fail!" next to the folder number. -->
 
 [<- Previous Step](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/KryFlux.html)
 [Next Step ->](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/fiwalk.html)
