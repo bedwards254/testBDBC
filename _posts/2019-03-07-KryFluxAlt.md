@@ -41,29 +41,29 @@ description: Using the Kryoflux to transfer data from floppy disks and scripts!
 
 **NOTE:** The resulting prompt will likely say: **Control command rejected by the device. CM: maxtrack = 0**.
 
-14. Ensure that the power cable is plugged in and connect the power adaptor to the back of the floppy disk drive.
+4. Ensure that the power cable is plugged in and connect the power adaptor to the back of the floppy disk drive.
 
     - The power adaptor has two connectors: the smaller one is for 3.5" floppy disk drives and the larger one is for 5.25" floppy disk drives. Both are clearly labelled.
     - When working with the 5.25" drive, in particular, be careful to make sure that the adaptor is properly aligned.
     - When disconnecting the adaptors, grip the white plastic piece and not the wires, as these are quite fragile and easily come loose if mishandled.
   
-15. Insert a floppy disk.
-16. On the desktop, locate the folder titled **RunFiles**. 
-17. Double-click to open, and locate the file **pre-run.bat**. 
-18. Double-click on **pre-run.bat**, which will open the command prompt and automatically run the above command. 
+5. Insert a floppy disk.
+6. On the desktop, locate the folder titled **RunFiles**. 
+7. Double-click to open, and locate the file **pre-run.bat**. 
+8. Double-click on **pre-run.bat**, which will open the command prompt and automatically run the above command. 
 
 **NOTE:** The resulting prompt will likely say something like: **CM: maxtrack = 83**.
 
 ### Capture stream files:
 
-17. Ensure that the Digital Archives hard drive dock is powered on.
+1. Ensure that the Digital Archives hard drive dock is powered on.
 * On the desktop, locate the folder titled **RunFiles**. 
 * Double-click to open, and locate the file **run.bat**. 
 * *COPY* the file into the *[collectionName]_diskImages* folder. 
 * Navigate to the *[collectionName]_diskImages* folder in the command prompt. 
 * In the command prompt type **run.bat [MSSnumber_ID]** and hit **enter**. 
 
-18. Review the terminal output to determine which encoding format is correct:
+2. Review the terminal output to determine which encoding format is correct:
 
     - Incorrect formats will register as ``unformatted``.
     - The correct format will be listed as ``OK``.
@@ -71,19 +71,19 @@ description: Using the Kryoflux to transfer data from floppy disks and scripts!
     - If Apple DOS 400/800 is the correct format, use ``-i9`` in step 21.
     - If neither format is correct, make a note of this and set disk aside for further review at a later date.
     
-22. Once imaging is complete, remove the floppy disk from the drive.
-23. Label the disk with its MSSnumber\_ID. Be sure not to obscure any original labels.
+3. Once imaging is complete, remove the floppy disk from the drive.
+4. Label the disk with its MSSnumber\_ID. Be sure not to obscure any original labels.
 
 ### Repeat for remaining floppy disks:
 
-24. Insert next floppy disk.
-25. Repeat from step 18.
+5. Insert next floppy disk.
+6. Repeat from step 18.
 
 ### Disconnect the KryoFlux:
 
-26. Click the **Safely remove hardware** icon and select **KryoFlux Disk System**.
-27. Once it is safe to remove the KryoFlux, carefully disconnect the power (taking care not to pull on the wires), then the USB cable, and finally the data cable.
-28. Replace all components in the KryoFlux box and return to the cabinet.
+1. Click the **Safely remove hardware** icon and select **KryoFlux Disk System**.
+2. Once it is safe to remove the KryoFlux, carefully disconnect the power (taking care not to pull on the wires), then the USB cable, and finally the data cable.
+3. Replace all components in the KryoFlux box and return to the cabinet.
 
 [Next Step ->](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/img-migration.html)
 [Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/23/welcome-BDBC.html)
