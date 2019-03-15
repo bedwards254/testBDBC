@@ -60,10 +60,17 @@ description: Using the Kryoflux to transfer data from floppy disks and scripts!
 * On the desktop, locate the folder titled **RunFiles**. 
 * Double-click to open, and locate the file **run.bat**. 
 * *COPY* the file into the *[collectionName]_diskImages* folder. 
-* Navigate to the *[collectionName]_diskImages* folder in the command prompt. 
-* In the command prompt type **run.bat [MSSnumber_ID]** and hit **enter**. 
+* Navigate to the *[collectionName]_diskImages* folder in the command prompt.
 
-2. Review the terminal output to determine which encoding format is correct:
+**NOTE:** To navigate to the right drive, simply enter **[driveLetter]:** into the command prompt. 
+* Example: *L:*
+
+From there, use the *cd path\to\folder* command to navigate to the directory. 
+* Example: *cd digitalArchives\diskImages\[collectionName]_diskImages* 
+
+2. In the command prompt type **run.bat [MSSnumber_ID]** and hit **enter**. 
+
+3. Review the terminal output to determine which encoding format is correct:
 
     - Incorrect formats will register as ``unformatted``.
     - The correct format will be listed as ``OK``.
@@ -71,13 +78,13 @@ description: Using the Kryoflux to transfer data from floppy disks and scripts!
     - If Apple DOS 400/800 is the correct format, use ``-i9`` in step 21.
     - If neither format is correct, make a note of this and set disk aside for further review at a later date.
     
-3. Once imaging is complete, remove the floppy disk from the drive.
-4. Label the disk with its MSSnumber\_ID. Be sure not to obscure any original labels.
+4. Once imaging is complete, remove the floppy disk from the drive.
+5. Label the disk with its MSSnumber\_ID. Be sure not to obscure any original labels.
 
 ### Repeat for remaining floppy disks:
 
-5. Insert next floppy disk.
-6. Hit the *up arrow* while in the command prompt and edit the **run.bat [MSSnumber_ID]** command to the next disk number.
+6. Insert next floppy disk.
+7. Hit the *up arrow* while in the command prompt and edit the **run.bat [MSSnumber_ID]** command to the next disk number.
 
 ### Disconnect the KryoFlux:
 
