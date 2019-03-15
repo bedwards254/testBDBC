@@ -77,7 +77,7 @@ description: Using the Kryoflux to transfer data from floppy disks and scripts!
 ### Repeat for remaining floppy disks:
 
 5. Insert next floppy disk.
-6. Repeat from step 18.
+6. Hit the *up arrow* while in the command prompt and edit the **run.bat [MSSnumber_ID]** command to the next disk number.
 
 ### Disconnect the KryoFlux:
 
