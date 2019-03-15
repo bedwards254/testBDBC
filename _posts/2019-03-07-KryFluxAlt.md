@@ -63,10 +63,10 @@ description: Using the Kryoflux to transfer data from floppy disks and scripts!
 * Navigate to the *[collectionName]_diskImages* folder in the command prompt.
 
 **NOTE:** To navigate to the right drive, simply enter **[driveLetter]:** into the command prompt. 
-* Example: *L:*
+* Example: ```L:```
 
-From there, use the *cd path\to\folder* command to navigate to the directory. 
-* Example: *cd digitalArchives\diskImages\[collectionName]_diskImages* 
+From there, use the ```cd path\to\folder``` command to navigate to the directory. 
+* Example: ```cd digitalArchives\diskImages\[collectionName]_diskImages``` 
 
 2. In the command prompt type **run.bat [MSSnumber_ID]** and hit **enter**. 
 
