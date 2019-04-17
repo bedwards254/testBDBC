@@ -61,4 +61,4 @@ On the right computer, the steps are a bit different.
 7. After a few minutes, you will be prompted to choose the BitCurator profile. Hit **enter**.
 8. You will be prompted for a password. Type the BitCurator password and hit **enter**. The BitCurator GUI will launch.
 
-[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/23/welcome-BDBC.html)
+[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/30/welcome-BDBC.html)
