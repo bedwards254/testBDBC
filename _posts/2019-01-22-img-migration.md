@@ -97,4 +97,4 @@ Using the **MD5.bash** file, the MD5 file and verify files created during the mi
 
 [<- Previous Step](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/KryFlux.html)
 [Next Step ->](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/fiwalk.html)
-[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/23/welcome-BDBC.html)
+[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/30/welcome-BDBC.html)
