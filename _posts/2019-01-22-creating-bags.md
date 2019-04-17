@@ -118,4 +118,4 @@ The file should look like this:
 
 [<- Previous Step](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/fiwalk.html)
 [Next Step ->](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/Keep-Ingest.html)
-[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/23/welcome-BDBC.html)
+[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/30/welcome-BDBC.html)
