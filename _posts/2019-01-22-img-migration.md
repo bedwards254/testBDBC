@@ -93,6 +93,7 @@ Using the **MD5.bash** file, the MD5 file and verify files created during the mi
 
 6. Type **bash MD5.bash** and hit **enter**
 7. The results of the scan will appear in the terminal window, either "Success!" or "Fail!" next to the folder number. 
+	* **NOTE:** This script will run on the entire folder as a whole, so if you're doing a collection in stages, you'll see previous results as well. It's best to wait to run it all at once.
 
 [<- Previous Step](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/KryFlux.html)
 [Next Step ->](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/fiwalk.html)
