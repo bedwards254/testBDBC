@@ -18,6 +18,8 @@ description: Instructions for imaging and Keep upload of optical discs
 **NOTE:** For more information about the Rose Library’s approach to optical discs, see the 
 [Capturing Data from Optical Discs policy](https://bedwards254.github.io/testBDBC/jekyll/2019/01/28/Optical-discs-policy.html).
 
+**NOTE:** Check to see if the CD is a *CD-R* or a *CD-RW*. If the CD is a **CD-RW**, you will need to create a TAR file, using [these instructions](https://bedwards254.github.io/testBDBC/jekyll/2019/01/29/TAR-files.html). 
+
 ### CAPTURE DISK IMAGE USING GUYMAGER:
 1. Switch to the BitCurator side of the machine. See [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html) for instructions. 
 2. Right-click anywhere on the Desktop to create a new folder. Name it collectionName_diskImages_cds 
