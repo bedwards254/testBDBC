@@ -28,6 +28,8 @@ A disc’s contents will fall into one of four categories:
 - A raw disk image is created using Guymager.
 - The resulting ISO file is bagged and ingested into the Keep using our normal workflows.
 
+**NOTE:** Check to see if the CD is a *CD-R* or a *CD-RW*. If the CD is a **CD-RW**, you will need to create a TAR file, using [these instructions](https://bedwards254.github.io/testBDBC/jekyll/2019/01/29/TAR-files.html). 
+
 **If the disc in question is a recordable mixed-mode CD...**
 - A disk image is created using the BIN/CUE file format, using either FTK Imager or IsoBuster.
 - *WHY IS THE BIN/CUE FORMAT REQUIRED FOR MIXED-MODE DISCS?*
