@@ -93,4 +93,4 @@ From there, use the ```cd path\to\folder``` command to navigate to the directory
 3. Replace all components in the KryoFlux box and return to the cabinet.
 
 [Next Step ->](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/img-migration.html)
-[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/30/welcome-BDBC.html)
+[Home](https://bedwards254.github.io/testBDBC/jekyll/2019/01/30/welcome-BDBC.htmll)
