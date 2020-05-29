@@ -14,9 +14,9 @@ preservation and processing using Guymager.
 * [Equipment](#equipment)
 * [Instructions](#instructions)
 
-[Generating Fiwalk reports, with virus checking](#generating-fiwalk-reports-with-virus-checking)</br>
-[Packaging disk images and supplemental files using BagIt](#packaging-disk-images-and-supplemental-files-using-bagit)</br>
-[Ingesting packaged content into the Keep](#ingesting-packaged-content-into-the-keep)
+* [Generating Fiwalk reports, with virus checking](#generating-fiwalk-reports-with-virus-checking)
+* [Packaging disk images and supplemental files using BagIt](#packaging-disk-images-and-supplemental-files-using-bagit)
+* [Ingesting packaged content into the Keep](#ingesting-packaged-content-into-the-keep)
 
 ---
 
@@ -135,7 +135,7 @@ image will be mounted on the Desktop. Double-click to open it and view files.
 
 ### Before you begin:
 
-* This workflow uses tools stored as part of the BitCurator suite. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html).
+* This workflow uses tools stored as part of the BitCurator suite. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html){target="_blank"}.
 * Ensure that the Digital Archives Lab workstation is not connected to the Internet by unplugging the ethernet cable.
 
 ### Run Fiwalk with the ClamAV plugin:
@@ -209,7 +209,7 @@ Using the **virus.bash** file, fiwalk reports can be read for an entire collecti
 
 ### Before you begin:
 
-* This workflow uses tools stored in BitCurator. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html).
+* This workflow uses tools stored in BitCurator. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html){target="_blank"}.
 * Ensure that the Digital Archives Lab workstation is not connected to the Internet by unplugging the ethernet cable.
 
 ### Create folders:
@@ -326,7 +326,7 @@ The file should look like this:
 
 * This workflow uses tools stored in Windows. If necessary, restart the Digital Archives Lab workstation and boot to the 
 Windows hard drive. You can find instructions on how to do this 
-[here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html).
+[here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html){target="_blank"}.
 
 * Ensure that the Digital Archives Lab workstation **is** connected to the Internet by plugging in the ethernet cable if 
 necessary. Unlike many of our processes, ingest into the Keep does require a network connection.
