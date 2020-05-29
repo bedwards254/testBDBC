@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Imaging Drives
+title:  External and USB Drives
 category: jekyll 
 description: Instructions for imaging external hard drives and USB drives.
 ---
