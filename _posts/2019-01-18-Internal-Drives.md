@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ZIP 250 Disks
+title:  Internal hard drives
 category: jekyll 
 description: Instructions for imaging internal hard drives.
 ---
