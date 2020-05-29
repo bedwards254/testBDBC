@@ -23,7 +23,7 @@ description: Instructions for imaging and Keep upload of optical discs
 - c. If the disc contains mixed-mode data (both audiovisual and filesystem data), image using IsoBuster.
 
 **NOTE:** For more information about the Rose Library’s approach to optical discs, see the 
-[Capturing Data from Optical Discs policy](https://bedwards254.github.io/testBDBC/jekyll/2019/01/28/Optical-discs-policy.html){:target="_blank"}.
+[Capturing Data from Optical Discs policy]("https://bedwards254.github.io/testBDBC/jekyll/2019/01/28/Optical-discs-policy.html" target="_blank").
 
 **NOTE:** Check to see if the CD is a *CD-R* or a *CD-RW*. If the CD is a **CD-RW**, you will need to create a TAR file, using [these instructions](https://bedwards254.github.io/testBDBC/jekyll/2019/01/29/TAR-files.html){:target="_blank"}. 
 
