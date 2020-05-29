@@ -23,7 +23,7 @@ description: Instructions for imaging and Keep upload of optical discs
 - c. If the disc contains mixed-mode data (both audiovisual and filesystem data), image using IsoBuster.
 
 **NOTE:** For more information about the Rose Library’s approach to optical discs, see the 
-[Capturing Data from Optical Discs policy]("https://bedwards254.github.io/testBDBC/jekyll/2019/01/28/Optical-discs-policy.html" target="_blank").
+[Capturing Data from Optical Discs policy](https://bedwards254.github.io/testBDBC/jekyll/2019/01/28/Optical-discs-policy.html){:target="_blank"}.
 
 **NOTE:** Check to see if the CD is a *CD-R* or a *CD-RW*. If the CD is a **CD-RW**, you will need to create a TAR file, using [these instructions](https://bedwards254.github.io/testBDBC/jekyll/2019/01/29/TAR-files.html){:target="_blank"}. 
 
@@ -32,7 +32,7 @@ description: Instructions for imaging and Keep upload of optical discs
 ---
 
 ### CAPTURE DISK IMAGE USING GUYMAGER:
-1. Switch to the BitCurator side of the machine. See [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html) for instructions. 
+1. Switch to the BitCurator side of the machine. See [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html){:target="_blank"} for instructions. 
 2. Right-click anywhere on the Desktop to create a new folder. Name it collectionName_diskImages_cds 
 (e.g., Cleage_diskImages_cds).
 3. Insert disc, if not already loaded.
@@ -67,7 +67,7 @@ Guymager to have it appear in the list.
 ---
 
 ### CAPTURE DISK IMAGE USING ISOBUSTER:
-1. Switch to the Windows side of the machine. See [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html) for instructions. 
+1. Switch to the Windows side of the machine. See [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html){:target="_blank"} for instructions. 
 2. Power on the hard drive dock and create a new folder in the diskImages directory, named 
 collectionName_diskImages (e.g., Cleage_diskImages).
 3. Launch *IsoBuster*.
@@ -93,7 +93,7 @@ select one of four options and proceed with imaging, or quit. One selection will
 
 ### Before you begin:
 
-* This workflow uses tools stored as part of the BitCurator suite. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html).
+* This workflow uses tools stored as part of the BitCurator suite. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html){:target="_blank"}.
 * Ensure that the Digital Archives Lab workstation is not connected to the Internet by unplugging the ethernet cable.
 
 ### Run Fiwalk with the ClamAV plugin:
@@ -167,7 +167,7 @@ Using the **virus.bash** file, fiwalk reports can be read for an entire collecti
 
 ### Before you begin:
 
-* This workflow uses tools stored in BitCurator. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html).
+* This workflow uses tools stored in BitCurator. If necessary, restart the Digital Archives Lab workstation and boot to the BitCurator hard drive. You can find instructions on how to do this [here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html){:target="_blank"}.
 * Ensure that the Digital Archives Lab workstation is not connected to the Internet by unplugging the ethernet cable.
 
 ### Create folders:
@@ -284,7 +284,7 @@ The file should look like this:
 
 * This workflow uses tools stored in Windows. If necessary, restart the Digital Archives Lab workstation and boot to the 
 Windows hard drive. You can find instructions on how to do this 
-[here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html).
+[here](https://bedwards254.github.io/testBDBC/jekyll/2019/01/22/BC-Windows-Switch.html){:target="_blank"}.
 
 * Ensure that the Digital Archives Lab workstation **is** connected to the Internet by plugging in the ethernet cable if 
 necessary. Unlike many of our processes, ingest into the Keep does require a network connection.
